@@ -208,7 +208,7 @@ Now that we have the ARM template and parameters file ready, we can deploy the t
 
 ```bash
 az deployment group create \
-  --resource-group WebAppResourceGroup \
+  --resource-group myWebAppRG \
   --template-file azuredeploy.json \
   --parameters azuredeploy.parameters.json
 ```
