@@ -1,19 +1,19 @@
 ---
-title: "Dockerise Your Portfolio website (Vite)"
+title: "Dockerise Your React.js Portfolio Website."
 seoTitle: "docker"
 seoDescription: "docker"
 datePublished: Tue Jun 24 2025 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmcdecnjl000202ky1fmh9mb2
-slug: dockerise-your-portfolio-website-vite
+slug: dockerise-your-reactjs-portfolio-website
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750942909943/0c6f62f2-feee-43ca-956f-0b456b4badfa.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1750943062951/f61cd887-9076-4060-b4d4-c58f0847facb.png
-tags: docker, dockerfile, tailwind-css, vite
+tags: docker, reactjs, dockerfile, tailwind-css, vite
 
 ---
 
 > **Introduction**
 
-If you’ve built a sleek, blazing-fast application with Vite + TypeScript + Tailwind CSS, the next big step is to make it deployable anywhere. In this tutorial, I’ll show you how to **Dockerize your Vite app** — making it easy to run your project in a containerised environment with just two commands.
+If you’ve built a sleek, blazing-fast application with Vite + TypeScript + Tailwind CSS, the next big step is to make it deployable anywhere. In this tutorial, I’ll show you how to **Dockerize your React.js app** — making it easy to run your project in a containerised environment with just two commands.
 
 I’ll walk you through the full process using my open-source portfolio project on GitHub.
 
@@ -34,7 +34,7 @@ I’ll walk you through the full process using my open-source portfolio project 
 
 Here’s what my project uses:
 
-* **Vite** for lightning-fast development
+* **React.js** for lightning-fast development
     
 * **TypeScript** for type-safe coding
     
